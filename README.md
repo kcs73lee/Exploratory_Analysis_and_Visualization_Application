@@ -29,8 +29,10 @@ Perform predictive modeling directly in the app using built-in support for Class
 	- And more!
 Model performance metrics and visual outputs are provided for evaluation
 
-## Use Cases:
+## Use Cases
 	1. Rapid data exploration and statistical analysis
 	2. Creating graphics for reports or presentations
         3. Prototyping machine learning workflows without coding
+
+ 
 
