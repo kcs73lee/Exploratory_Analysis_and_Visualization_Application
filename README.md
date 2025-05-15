@@ -4,10 +4,9 @@
 This web-based application, developed using R Shiny, offers a powerful and user-friendly interface for exploring, visualizing, and statistically analyzing tabular data. It is designed to support users from various backgrounds, whether in research, business, or education, by simplifying complex data workflows into an intuitive visual interface.
 
 ## Key Features
-1. Data Exploration & Cleaning <br>
-2. Upload and preview tabular data (CSV/ Excel) <br>
-3. Basic data cleaning tools: <br>
-
+Data Exploration & Cleaning <br>
+Upload and preview tabular data (CSV/ Excel) <br>
+Basic data cleaning tools: 
 - Remove outliers based on customizable thresholds
 - Filter rows and columns interactively
 - Handle missing values through deletion or imputation
