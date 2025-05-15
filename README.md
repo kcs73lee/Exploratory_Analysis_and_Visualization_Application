@@ -14,19 +14,19 @@ Data reshaping: Convert wide-format data into long format for advanced analysis 
 
 ## Interactive Visualizations
 Generate high-quality, presentation-ready plots with ease:
-	- Bar plots
-	- Box plots
-	- Line charts
-	- Scatter plots
-	- Heatmaps
+- Bar plots
+- Box plots
+- Line charts
+- Scatter plots
+- Heatmaps
 All plots can be customized by selecting variables, adjusting themes, and applying filters dynamically.
 
 ## Machine Learning Models
 Perform predictive modeling directly in the app using built-in support for Classification and Regression tasks including:
-	- Decision Trees
-	- Support Vector Machines (SVM)
-	- K-Nearest Neighbors (KNN)
-	- And more!
+- Decision Trees
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
+- And more!
 Model performance metrics and visual outputs are provided for evaluation
 
 ## Use Cases
