@@ -7,9 +7,11 @@ This web-based application, developed using R Shiny, offers a powerful and user-
 1. Data Exploration & Cleaning <br>
 2. Upload and preview tabular data (CSV/ Excel) <br>
 3. Basic data cleaning tools: <br>
+
 - Remove outliers based on customizable thresholds
 - Filter rows and columns interactively
-- Handle missing values through deletion or imputation <br>
+- Handle missing values through deletion or imputation
+  
 Data reshaping: Convert wide-format data into long format for advanced analysis and plotting
 
 ## Interactive Visualizations
@@ -26,7 +28,8 @@ Perform predictive modeling directly in the app using built-in support for Class
 - Decision Trees
 - Support Vector Machines (SVM)
 - K-Nearest Neighbors (KNN)
-- And more! <br>
+- And more!
+  
 Model performance metrics and visual outputs are provided for evaluation
 
 ## Use Cases
